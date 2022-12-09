@@ -1,0 +1,51 @@
+Final Exam Project Instructions
+IT-540 Web Programming
+
+
+For your project you will need to build application so that involves user log-ins,
+( meaning that users need to be able to log into the application )
+
+There should is an existing table that stores users and log-in data. You’ll also need a way for 
+users to enter their log-in data pages such as the Edit Profile page are only accessible after a 
+successful log-in. 
+
+ 
+Guildlines:
+1) On the server inside your public_html folder create a new folder called final . 
+( So your domain will be accessed as username.web540.net/final/ ). You can have your 
+own theme of choice developed ( e.g  on-line shopping, , catering,  events scheduler, 
+on-line auction, social media, photo portfolio,  etc ... )
+
+
+2) Your website should have the following pages  Home (index.php )  About  and  
+Contact page with the option  to fill in a simple form and send a message / email using our server 
+( we did this in one of the homeworks ). The About and Contact pages could be part of the Home page 
+if you prefer ( they can be sections of a page rather than separate pages -but in any case the 
+navigation property will be needed to work )
+
+
+3) You can use a template of your choice if you like ( here is an example that we used in class ).
+ ~  You can right click on the web page and view/ copy source code of the page. Make 
+sure you include  navigation menu(s)
+https://internshipvalpo.firebaseapp.com/
+
+
+4)  You should have the following scripts/pages including login.php, logout.php, signup.php,
+ startsession.php, editprofile.php, and vieprofile.php
+
+
+5) You should also have an Admin page. Once loged in as an admin you should implement scripts 
+such as editing and removing data.
+
+
+6) You should also have images folder where you ll be keeping your images 
+
+
+7) You should also have style.css file where you can define
+
+
+8) In your database  you will need to  create one ore more tables for your dynamical website. 
+( managing users and data )
+
+
+NOTE Provide your homepage link in  the Blackboard  (  username.web540.net/final/  )
